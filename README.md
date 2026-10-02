@@ -6,8 +6,8 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-geeknishant.tech-DC143C?style=for-the-badge&logo=vercel&logoColor=white)](https://www.geeknishant.tech)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nishant-kumar-844607224)
-[![X](https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/yourhandle)
-[![Email](https://img.shields.io/badge/Email-Contact-DC143C?style=for-the-badge&logo=gmail&logoColor=white)](mailto:usenishant@gmail.com)
+[![X](https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/stay_to_kyeus)
+[![Email](https://img.shields.io/badge/Email-Contact-DC143C?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nishant4567128@gmail.com)
 
 </div>
 
